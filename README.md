@@ -1,5 +1,7 @@
-# Calculator
-
-This is a basic calculator that performs basic calculations of mathematics such as Addition, Subtraction, Multiplication and Division. 
-In addition, two more operations can be performed, Square value of a number and Root value of a number. 
-
+A Basic Calculator
+/n
+/n
+<b>Author</b>
+/n
+Moumita Saha
+Undergrad Student of Computer Science and Engineering
