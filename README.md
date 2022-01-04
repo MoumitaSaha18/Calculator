@@ -1,7 +1,4 @@
-A Basic Calculator
-/n
-/n
-<b>Author</b>
-/n
-Moumita Saha
-Undergrad Student of Computer Science and Engineering
+Basic Calculator App in Python:
+
+This calculator performs basic mathematical operations such as Addition, Subtraction, Multiplication and Division.
+Furthermore, two more operations, finding the Square value and Root value are included there. 
